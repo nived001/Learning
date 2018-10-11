@@ -3,13 +3,6 @@ package learning;
 import java.text.DateFormat;
 import java.util.Date;
 
-interface a {
-
-}
-
-interface ab {
-
-}
 
 interface bc extends a, ab {
 
